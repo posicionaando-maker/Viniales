@@ -1,0 +1,22 @@
+{
+  "short_name": "MercadoPOS",
+  "name": "Sistema de Gestión de Viandas",
+  "description": "Punto de Venta e Inventario Offline para Mercados.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#15803d",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#15803d"
+}
